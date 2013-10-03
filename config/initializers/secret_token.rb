@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-Bettertest::Application.config.secret_key_base = '01754a11ad4d69d95f3a9989b6858017a82e8e693bbb9f6adcc95c08df889acc9c6b689a57512e4e455eb50bbefa5853122cabb6fadde55ae76bfb83f9f02cd5'
+Bettertest::Application.config.secret_key_base = 'da10db3dcf5a2b17574f703ead0f5ce0c91df66e67d8f1890615f4cbe6fa78170d81378f51547574d6411bd9d7076ec9ff8f5bc01d56c011711a6895043dfc02'
